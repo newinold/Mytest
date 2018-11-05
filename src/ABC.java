@@ -7,6 +7,9 @@ public class ABC {
 		
 		
 		System.out.println("");
+		
+		
+		System.out.println("222222");
 	}
 
 }
